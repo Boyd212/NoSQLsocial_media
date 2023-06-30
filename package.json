@@ -1,5 +1,5 @@
 {
-    "name": "hw18-social-network-api",
+    "name": "nosql-social-media",
     "version": "1.0.0",
     "description": "## Table of Contents",
     "main": "server.js",
@@ -9,15 +9,8 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/joce1ynn/social-network-API-NoSQL.git"
+      "url": "git+https://https://github.com/Boyd212/NoSQLsocial_media"
     },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/joce1ynn/social-network-API-NoSQL/issues"
-    },
-    "homepage": "https://github.com/joce1ynn/social-network-API-NoSQL#readme",
     "dependencies": {
       "express": "^4.17.3",
       "mongoose": "^6.2.9"
