@@ -107,4 +107,4 @@ const userController = {
     },
 };
 
-module.exports = userController
+module.exports = User;

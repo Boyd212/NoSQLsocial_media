@@ -119,4 +119,4 @@ removeReaction({ params }, res) {
 },
 };
 
-module.exports = commentController;
+module.exports = Comment;
